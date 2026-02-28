@@ -438,7 +438,7 @@ Navigate to "📈 MODEL COMPARISON" tab to see:
 ## 📸 Screenshots
 
 ### Dashboard - Dark Mode
-![Dashboard Dark Mode](results\snap.shots.dark\1.png)
+![Dashboard Dark Mode](1.png)
 
 **Features shown:**
 - Live battery metrics (SOH, SOC, Temperature)
@@ -447,8 +447,8 @@ Navigate to "📈 MODEL COMPARISON" tab to see:
 - Real-time chart visualization
 
 ### SOH Estimation
-![SOH Estimation](results\snap.shots.dark\3.png)
-![SOH Estimation](results\snap.shots.dark\4.png)
+![SOH Estimation](2.png)
+![SOH Estimation](3.png)
 
 **Features shown:**
 - Multi-model comparison
@@ -457,7 +457,7 @@ Navigate to "📈 MODEL COMPARISON" tab to see:
 - Performance metrics
 
 ### RL Optimization
-![RL Optimization](results\snap.shots.dark\5.png)
+![RL Optimization](4.png)
 
 **Features shown:**
 - Algorithm selection (DQN/Q-Learning)
