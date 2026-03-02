@@ -475,8 +475,8 @@ Navigate to "📈 MODEL COMPARISON" tab to see:
 **Md. Shiban Alam**  
 B.Tech AIML, St. Thomas' College of Engineering & Technology  
 📧 Email: [mdshibanalam@gmail.com]  
-💼 LinkedIn: [linkedin.com/in/md-shiban-alam-15bb7935b]  
-🐙 GitHub: [github.com/mdshibanalam]
+💼 LinkedIn: [https://linkedin.com/in/md-shiban-alam-15bb7935b]  
+🐙 GitHub: [https://github.com/mdshibanalam]
 
 **Responsibilities:**
 - ML model architecture design & implementation
@@ -589,7 +589,7 @@ SOFTWARE.
 **For technical queries or collaboration:**
 
 📧 **Email:** [mdshibanalam@gmail.com]  
-🐙 **GitHub:** [github.com/mdshibanalam/ai-powered-ev-battery-management-system]  
+🐙 **GitHub:** [https://github.com/mdshibanalam/ai-powered-ev-battery-management-system]  
 💼 **LinkedIn:** [https://www.linkedin.com/in/md-shiban-alam-15bb7935b/]
 
 **For academic inquiries:**
